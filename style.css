@@ -6,3 +6,5 @@
 .color-green{color: green}
 
 p.color-blue.font-size2{text-shadow: 2px 2px 2px violet;}
+
+p.font-size3.color-green{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
