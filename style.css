@@ -1,0 +1,8 @@
+.font-size1{font-size: 1.5rem;}
+.font-size2{font-size: 2rem;}
+.font-size3{font-size: 3rem;}
+.color-red{color: red;}
+.color-blue{color: blue;}
+.color-green{color: green}
+
+p.color-blue.font-size2{text-shadow: 2px 2px 2px violet;}
